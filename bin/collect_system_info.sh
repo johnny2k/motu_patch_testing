@@ -12,4 +12,7 @@ lsusb | grep "07fd" > motu_device.txt
 # PCI devices
 lspci -vvvk > lspci.txt
 
+# Dump logs to file
+sudo dmesg > dmesg.txt
+
 cd ..
