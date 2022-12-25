@@ -1,14 +1,14 @@
 #!/bin/bash
 
 
-MOTU_IP=""
+MOTU_IP="192.168.178.100"
 buffer_size=512
 
 # Set to Vendor mode (USB2)
 #
 echo "Setting to vendor mode USB2"
-curl --data 'json={"value":"USB2"}' $MOTU_IP/datastore/host/mode
-
+curl --data 'json={"value":"UAC"}' $MOTU_IP/datastore/host/mode
+exit
 
 # Set buffer size
 #
