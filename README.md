@@ -25,12 +25,14 @@ Various scripts are in bin. Some will require modifying to work on various syste
      - https://linuxmusicians.com/viewtopic.php?p=150112#p150112
 
 3. #### Experimental firmware from MOTU (works with and without the kernel patch above)
-   - ##### (27 Nov 2022) 1.4.3+92494 (only Ultralite AVB and Stage-B16):
+   - ##### (27 Nov 2022) 1.4.3+92494 (only UltraLite AVB and Stage-B16):
      - https://linuxmusicians.com/viewtopic.php?p=150411#p150411 
-   - ##### (23 Dec 2022) 1.4.4+92559 (Ultralite AVB, Stage-B16, 828ES and 8PreES):
+   - ##### (23 Dec 2022) 1.4.4+92559 (UltraLite AVB, Stage-B16, 828ES and 8PreES):
      - https://linuxmusicians.com/viewtopic.php?p=151326#p151326
-   - ##### (27 Dec 2022) 1.4.5+92559 (Ultralite AVB, Stage-B16, 828ES and 8PreES):
+   - ##### (27 Dec 2022) 1.4.5+92559 (UltraLite AVB, Stage-B16, 828ES and 8PreES):
      - https://linuxmusicians.com/viewtopic.php?p=151436#p151436
+   - ##### (28 Dec 2022) 1.4.5+92559 (UltraLite-mk4):
+     - https://linuxmusicians.com/viewtopic.php?p=151478#p151478
 
 4. #### Debugging guides
    - ##### MOTU shares instructions for dynamic debugging
